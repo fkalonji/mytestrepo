@@ -34,7 +34,7 @@ public class Antenna extends javax.swing.JFrame {
     
     /** Creates new form Antenna */
     public Antenna() {
-        initComponents();
+        initComponents(); //Added for versionning test
     }
     
     /** This method is called from within the constructor to
