@@ -27,9 +27,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
  */
 
-/* Anagram Game Application 
- No changes just added for testing...
- */
+/* Anagram Game Application */
 
 package com.toy.anagrams.ui;
 
